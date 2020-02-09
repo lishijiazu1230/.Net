@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>998b5973-cf5b-4d15-ab69-172a39819fca</ProjectGuid>
+    <ProjectGuid>{A95F5C6F-B7DE-4815-BBAD-B743C6EB6B05}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>泛型委托</RootNamespace>
