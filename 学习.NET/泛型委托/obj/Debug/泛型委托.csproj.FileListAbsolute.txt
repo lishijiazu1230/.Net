@@ -1,1 +1,6 @@
 F:\C#\学习.NET\泛型委托\bin\Debug\泛型委托.exe.config
+F:\C#\学习.NET\泛型委托\bin\Debug\泛型委托.exe
+F:\C#\学习.NET\泛型委托\bin\Debug\泛型委托.pdb
+F:\C#\学习.NET\泛型委托\obj\Debug\泛型委托.csprojResolveAssemblyReference.cache
+F:\C#\学习.NET\泛型委托\obj\Debug\泛型委托.exe
+F:\C#\学习.NET\泛型委托\obj\Debug\泛型委托.pdb
