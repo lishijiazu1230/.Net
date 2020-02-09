@@ -1,0 +1,1 @@
+F:\C#\学习.NET\泛型委托\bin\Debug\泛型委托.exe.config
